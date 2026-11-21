@@ -1,0 +1,2 @@
+Archivos de la app verde del pronosticador de turf, comprimidos y cifrados (AES-256-GCM).
+Sin la clave no se pueden leer. Para abrirlos: node descifrar.js <clave> [carpeta]
